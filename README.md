@@ -6,7 +6,7 @@
 </div>
 
 
-🔭 I’m currently working on: 
+### 🔭 I’m currently working on: 
 - **Fireup Scanner:** Automated Scanner used to review OCI Tenancies under the Best Practice Framework. Soon to be open sourced.
 - **CloudBricks:** Decoupled OCI Terraform modules used to assemble Enterprise Architectures. 
 - **CloudBricks helper:** Program built to automatically generate infrastructure based on a blueprint spreadsheet
